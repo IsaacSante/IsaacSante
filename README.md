@@ -1,4 +1,4 @@
-# Welcome to Isaac's page
+# Welcome to Isaac's page 👨🏿‍💻👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
