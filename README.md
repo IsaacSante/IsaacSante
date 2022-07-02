@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<iframe src="https://editor.p5js.org/isaacsantebotero/full/IlKQbpiry"></iframe>
+<iframe src="https://editor.p5js.org/isaacsantebotero/full/IlKQbpiry"   style="width:100%; height:300px;"
+></iframe>
 <!--
 **IsaacSante/IsaacSante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
