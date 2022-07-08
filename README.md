@@ -4,14 +4,14 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in New York.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I’m working as a Software Engineer and contributing to frontend and backend for building web applications. :telescope: 
 
 <div >
 Exploring In my free time, I do creative coding projects such as realtime audio visuals and ML art. </br> You can find my art on Insta!
 </br> <a href="https://www.instagram.com/blck.swan.studio/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 </div>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-sante-231765133)
+How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-sante-231765133)
 
 <!--
 **IsaacSante/IsaacSante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
