@@ -6,7 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. :telescope: 
 
-Exploring In my free time I do creative coding projects such as realtime audio visuals and ML art. 
+In my free time I do creative coding projects such as realtime audio reactive visuals, ML art and intteractive installations. 
 
 You can find my art on Insta!
 
