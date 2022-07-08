@@ -6,9 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :mailbox:How to reach me: [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+- :seedling: Exploring Creative Coding & design @ [Instagram Badge](https://www.instagram.com/blck.swan.studio/)
 
 - :zap: In my free time, I do creative coding projects such as realtime audio visuals and ML art.
 
