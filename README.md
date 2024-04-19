@@ -10,8 +10,12 @@ In my free time, I engage in creative coding projects such as audio-reactive vis
 
 <a href="https://www.instagram.com/isaac.sante.studio/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 
-### How to reach me:
+### Let's connect!:
 [![Linkedin Badge](https://img.shields.io/badge/-Isaac_Sante-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-sante-231765133)
+
+### How to reach me:
+isaacsantebotero@gmail.com
+
 
 <!--
 **IsaacSante/IsaacSante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
