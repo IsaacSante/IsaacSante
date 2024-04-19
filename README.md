@@ -1,16 +1,16 @@
-# Welcome to Isaac's world
+# 👨🏿‍💻 Hi, I am Isaac !
 
-### 👨🏿‍💻 About Me :
+Im a software developer specializing in Front-End, using React, TypeScript, and WebGL graphics. I've been working on creating novel storytelling experiences on the web and through interactive art installations. :telescope: 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in New York.
+Currently, I'm working as a Junior Engineer at Studio Elsewhere. In this role, I develop software for immersive environments that combine nature visuals and sounds, aimed at helping medical staff recharge during work.
 
-I’m working as a Software Engineer and contributing to frontend and backend for building web applications. :telescope: 
+[You can read more about my process here]([https://www.openai.com](https://isaacsante.com/))
 
-In my free time I do creative coding projects such as realtime audio reactive visuals, ML art and intteractive installations. 
 
+In my free time I do creative coding projects such as audio-reactive visuals, ML art and interactive installations. 
 You can find my art on Insta!
 
-<a href="https://www.instagram.com/blck.swan.studio/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+<a href="https://www.instagram.com/isaac.sante.studio/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 
 ---
 
