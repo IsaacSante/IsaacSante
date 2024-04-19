@@ -4,7 +4,7 @@ I'm a software developer specializing in Front-End, using React, TypeScript, and
 
 Currently, I'm working as a Junior Engineer at Studio Elsewhere. In this role, I develop software for immersive environments that combine nature visuals and sounds, aimed at helping medical staff recharge during work.
 
-You can read more about my process here: [Isaac's Process](https://isaacsante.com)
+You can read more about my process here: [Portfolio](https://isaacsante.com)
 
 In my free time, I engage in creative coding projects such as audio-reactive visuals, ML art, and interactive installations. Check out my art on Instagram!
 
