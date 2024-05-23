@@ -4,7 +4,7 @@ I am a Full Stack Developer with expertise in creating cutting-edge websites and
 
 Currently, I'm working as a Software Engineer at Studio Elsewhere. In this role, I develop software for immersive environments that combine nature visuals and sounds, aimed at helping medical staff recharge during work.
 
-You can read more about my process on my website [Portfolio](https://isaacsante.com)
+[Website](https://isaacsante.com)
 
 <a href="https://www.instagram.com/isaac.sante.studio/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 
