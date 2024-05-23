@@ -1,4 +1,5 @@
-I am a Full Stack Developer with expertise in creating cutting edge websites and immersive experiences that merge digital technologies with physical spaces. My skills include front-end technologies like React, Next.js, TypeScript and 3D graphics libraries such as React Three Fiber. I also have a solid background in back-end development with Node using Express, and setting up databases with PostgreSQL.
+Hi there! 👋 I'm Isaac Sante
+I am a Full Stack Developer with expertise in creating cutting-edge websites and immersive experiences that merge digital technologies with physical spaces. My skills include front-end technologies like React, Next.js, TypeScript, and 3D graphics libraries such as React Three Fiber. I also have a solid background in back-end development with Node.js using Express, and setting up databases with PostgreSQL.
 
 Currently, I'm working as a Software Engineer at Studio Elsewhere. In this role, I develop software for immersive environments that combine nature visuals and sounds, aimed at helping medical staff recharge during work.
 
