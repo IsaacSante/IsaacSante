@@ -7,7 +7,9 @@ Currently, I'm working as a Software Engineer at Studio Elsewhere. In this role,
 You can read more about my process on my website [Portfolio](https://isaacsante.com)
 
 <a href="https://www.instagram.com/isaac.sante.studio/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Isaac_Sante-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-sante-231765133)
+
 isaacsantebotero@gmail.com
 
 
