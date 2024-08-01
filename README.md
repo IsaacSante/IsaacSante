@@ -2,11 +2,11 @@
 
 ## About Me 
 
-I am a Full Stack Developer with expertise in creating cutting-edge websites and immersive experiences that merge digital technologies with physical spaces. My skills include front-end technologies like React, Next.js, TypeScript, and 3D graphics libraries such as React Three Fiber. I also have a solid background in back-end development with Node.js using Express, and setting up databases with PostgreSQL.
+Isaac is a software engineer with over four years of experience, specializing in medical innovation products. Over the past three years, I've helped scale a digital immersive room from an MVP to a proprietary system used in over 50 hospitals across the U.S. I led the development of the video playback Python service for this product.
 
-Currently, I'm working as a Software Engineer at Studio Elsewhere. In this role, I develop software for immersive environments that combine nature visuals and sounds, aimed at helping medical staff recharge during work. 
+I've also led several medical R&D projects, most recently I created a macOS desktop app with Electron.js to display projected videos in hospital patient rooms, supporting a Mount Sinai Hospital study on the effects of nature-based content on circadian rhythms.
 
-Some of my technical experience includes:
+My technical experience includes:
 - rewriting MVP from open-source OS to Linux in a microservice architecture
 - leading the development of a Python-based 4k video playback microservice on Linux
 - building front-end applications using Next.js, TypeScript, and Tailwind
