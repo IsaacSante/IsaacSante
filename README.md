@@ -1,7 +1,3 @@
-# Hi there! 👋 I'm Isaac Sante
-
-## About Me 
-
 Isaac is a software engineer with over four years of experience, specializing in medical innovation products. Over the past three years, I've helped scale a digital immersive room from an MVP to a proprietary system used in over 50 hospitals across the U.S. I led the development of the video playback Python service for this product.
 
 I've also led several medical R&D projects, most recently I created a macOS desktop app with Electron.js to display projected videos in hospital patient rooms, supporting a Mount Sinai Hospital study on the effects of nature-based content on circadian rhythms.
