@@ -19,16 +19,11 @@ isaacsantebotero@gmail.com
 ![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=Next.js&logoColor=ffffff)
 ![tailwind](https://img.shields.io/badge/tailwind-0c142c?style=for-the-badge&logo=Tailwindcss&logoColor=38bdf9)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
-![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
-![vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![rtl](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 
 ### Backend
 
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![django](https://img.shields.io/badge/django-092e20?style=for-the-badge&logo=django&logoColor=FFFFFF)
 ![fastapi](https://img.shields.io/badge/fastapi-029586?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
 ![node](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![express](https://img.shields.io/badge/express-404D59?style=for-the-badge&logo=express&logoColor=FFFFFF)
@@ -44,7 +39,6 @@ isaacsantebotero@gmail.com
 ![heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=FFFFFF)
 ![netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=FFFFFF)
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
-![iot](https://img.shields.io/badge/iot-4CAF50?style=for-the-badge&logo=iot&logoColor=FFFFFF)
 
 ### Native & RealTime Graphics
 
