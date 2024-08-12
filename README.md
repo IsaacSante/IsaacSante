@@ -4,7 +4,6 @@ Over the past three years, I’ve helped scale a digital immersive room from an 
 
 ### Internet Presence 
 [![Website](https://img.shields.io/badge/Website-151317?style=for-the-badge&logo=&logoColor=white)](https://isaacsante.com)
-<a href="https://www.instagram.com/isaac.sante.studio/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 [![Linkedin Badge](https://img.shields.io/badge/-Isaac_Sante-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-sante-231765133)
 
 ## Tech Stack
