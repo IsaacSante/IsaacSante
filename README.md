@@ -48,5 +48,3 @@ isaacsantebotero@gmail.com
 ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ![threejs](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=FFFFFF)
 ![react three fiber](https://img.shields.io/badge/react%20three%20fiber-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![touchdesigner](https://img.shields.io/badge/touchdesigner-FF1493?style=for-the-badge&logo=touchdesigner&logoColor=FFFFFF)
-![glsl](https://img.shields.io/badge/glsl-008080?style=for-the-badge&logo=opengl&logoColor=FFFFFF)
