@@ -2,4 +2,3 @@ I engineer AI-driven innovation products. Previously at Studio Elsewhere, I scal
 
 
 [![Website](https://img.shields.io/badge/Website-151317?style=for-the-badge&logo=&logoColor=white)](https://isaacsante.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Isaac_Sante-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-sante-231765133)
